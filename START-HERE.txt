@@ -1,0 +1,8 @@
+VOID SMP store - quick start (Windows)
+
+1. Right-click the ZIP > Extract All.
+2. Open the extracted folder (you should see server.js, start.bat, public, api).
+3. Double-click start.bat. A black window opens and your browser opens the store.
+4. Keep the black window open while you use the site.
+
+If something goes wrong, the black window explains what. Send me what it says.

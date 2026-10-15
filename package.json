@@ -1,0 +1,8 @@
+{
+  "name": "voidsmp-store",
+  "version": "2.0.0",
+  "private": true,
+  "description": "VOID SMP store: static frontend + serverless Node.js API (no dependencies)",
+  "scripts": { "start": "node server.js", "test": "node tests/api.test.js" },
+  "engines": { "node": ">=18" }
+}
